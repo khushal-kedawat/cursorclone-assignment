@@ -56,6 +56,7 @@ Open `index.html` in your browser.
 - Static clone (no JavaScript)
 - Desktop only (not responsive)
 
-
+Live Link
+https://cursorclone-assignment.vercel.app/
 ---
 
